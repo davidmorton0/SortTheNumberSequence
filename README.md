@@ -1,6 +1,7 @@
 # SortTheNumberSequence
 
 Solution for Codewars problem: Sort The Number Sequence - 6 kyu
+
 Note - This is a Ruby solution, although it is not currently available on Codewars in this language.
 
 Description:
